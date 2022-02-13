@@ -20,7 +20,7 @@ sidebar-avatar: /img/ours.jpg      # use absolute URL, seeing it's used in both 
 RSS: false
 weibo_username:     false
 zhihu_username:     false
-github_username:    https://github.com/PF-Chen
+github_username:    PF-Chen
 # facebook_username:  username
 # jianshu_username:   jianshu_id
 twitter_username:   false
