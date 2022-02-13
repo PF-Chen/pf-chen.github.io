@@ -2047,9 +2047,9 @@
                     key: 'genDom',
                     value: function genDom() {
                         this.createDom(_defineProperty({
-                            href: 'https://flyingwzb.github.io/',
+                            href: 'https://pf-chen.github.io/',
                             target: '_blank'
-                        }, _dom.textKey, '了解更多⚽🏀💻'), 'a');
+                        }, _dom.textKey, '了解更多'), 'a');
                     }
                 }]);
 
