@@ -1,6 +1,6 @@
 # Site settings
-title: This is the love blog of 才浅熊和木子阳阳！
-SEOTitle: This is the love blog of 才浅熊和木子阳阳！
+title: This is the love blog of 才浅熊 and 木子阳阳！
+SEOTitle: This is the love blog of 才浅熊 and 木子阳阳！
 header-img: img/post-bg-index.jpg
 email: chenpengfei218@163.com
 description: "Every failure is leading towards success."
@@ -72,7 +72,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 43a724ef389517d1350c2af809891054
 
 # Google Analytics
 #ga_track_id: 'UA-137811562-1'            # Format: UA-xxxxxx-xx
@@ -91,11 +91,9 @@ service-worker: true
 
 # Friends
 friends: [
-{title: "书舟网",href: "http://kindle.archiew.top/"},
-{title: "阮一峰",href: "http://www.ruanyifeng.com/home.html"},
-{title: "阿里巴巴",href: "https://www.alibabagroup.com/cn/global/home"},
-{title: "腾讯",href: "https://www.tencent.com/zh-cn/index.html"},
-{title: "字节跳动",href: "https://www.bytedance.com/zh"}
+{title: "北京市民政局婚姻登记预约服务",href: "http://ggfw.mzj.beijing.gov.cn/jhyy/marryout/marry/index.html"},
+{title: "BUAA",href: "https://www.buaa.edu.cn/"},
+{title: "ZZU",href: "http://www.zzu.edu.cn/"},
 ]
 
 
