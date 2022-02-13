@@ -1,5 +1,5 @@
 # Site settings
-title: Will Wang's Blog
+title: This is the love blog of 才浅熊和木子阳阳！
 SEOTitle: This is the love blog of 才浅熊和木子阳阳！
 header-img: img/post-bg-index.jpg
 email: chenpengfei218@163.com
@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "才浅熊, 木子阳阳, love blog,"
 url: "https://flyingwzb.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/flyingwzb/flyingwzb.github.io.git" # you code repository
+github_repo: "https://github.com/PF-Chen/pf-chen.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,12 +18,12 @@ sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: false
-weibo_username:     wzb1994
-zhihu_username:     zongguanxian
-github_username:    flyingwzb
+weibo_username:     false
+zhihu_username:     false
+github_username:    false
 # facebook_username:  username
 # jianshu_username:   jianshu_id
-twitter_username:   wzbcode
+twitter_username:   false
 
 
 # Build settings
